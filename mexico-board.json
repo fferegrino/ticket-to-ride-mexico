@@ -287,7 +287,7 @@
     },
     {
       "id": 17,
-      "name": "Santiago de Querétaro",
+      "name": "Querétaro",
       "country": "Mexico",
       "population": 1594212,
       "latitude": 20.58806,
@@ -384,7 +384,7 @@
     },
     {
       "id": 23,
-      "name": "Boca del Rio",
+      "name": "Veracruz",
       "country": "Mexico",
       "population": 9947,
       "latitude": 19.10464,
@@ -416,7 +416,7 @@
     },
     {
       "id": 25,
-      "name": "Isla Mujeres",
+      "name": "Cancún",
       "country": "Mexico",
       "population": 12642,
       "latitude": 21.23114,
@@ -432,7 +432,7 @@
     },
     {
       "id": 26,
-      "name": "Heroica Matamoros",
+      "name": "Matamoros",
       "country": "Mexico",
       "population": 449815,
       "latitude": 25.87972,
