@@ -447,10 +447,10 @@
       "yRelative": 0.5713606144221278
     },
     {
-      "x": 1.2598794867699707,
-      "y": 0.43785136551819026,
-      "xRelative": 0.7689923301297437,
-      "yRelative": 0.43785136551819026,
+      "x": 1.2598794867699714,
+      "y": 0.4211680362137033,
+      "xRelative": 0.768992330129744,
+      "yRelative": 0.4211680362137033,
       "name": "Golfo de México",
       "country": "Mexico",
       "population": 0,
@@ -461,6 +461,108 @@
       "included": true,
       "isHarbour": false,
       "id": 27,
+      "manual": true
+    },
+    {
+      "x": 0.6920316243538627,
+      "y": 0.18649493722275978,
+      "xRelative": 0.42239517106489055,
+      "yRelative": 0.18649493722275978,
+      "name": "Manzanillo",
+      "country": "Mexico",
+      "population": 0,
+      "sizeCoefficient": "regular",
+      "useFlagIfAvailable": true,
+      "latitude": 18.885587346341506,
+      "longitude": -104.30806360011526,
+      "included": true,
+      "isHarbour": false,
+      "id": 28,
+      "manual": true
+    },
+    {
+      "x": 0.5741178561801376,
+      "y": 0.33079420655617175,
+      "xRelative": 0.35042417360484,
+      "yRelative": 0.33079420655617175,
+      "name": "Islas Marías",
+      "country": "Mexico",
+      "population": 0,
+      "sizeCoefficient": "regular",
+      "useFlagIfAvailable": true,
+      "latitude": 21.3956810009929,
+      "longitude": -106.57156234877641,
+      "included": true,
+      "isHarbour": false,
+      "id": 29,
+      "manual": true
+    },
+    {
+      "x": 1.157480709250146,
+      "y": 0.8102401659542825,
+      "xRelative": 0.706491213670353,
+      "yRelative": 0.8102401659542825,
+      "name": "Houston",
+      "country": "Mexico",
+      "population": 0,
+      "sizeCoefficient": "regular",
+      "useFlagIfAvailable": true,
+      "latitude": 29.735669595479788,
+      "longitude": -95.3732001185581,
+      "included": true,
+      "isHarbour": false,
+      "id": 30,
+      "manual": true
+    },
+    {
+      "x": 1.0630886195210816,
+      "y": 0.962778799075965,
+      "xRelative": 0.6488771372536758,
+      "yRelative": 0.962778799075965,
+      "name": "Dallas",
+      "country": "Mexico",
+      "population": 0,
+      "sizeCoefficient": "regular",
+      "useFlagIfAvailable": true,
+      "latitude": 32.389087432289834,
+      "longitude": -97.18517153033136,
+      "included": true,
+      "isHarbour": false,
+      "id": 31,
+      "manual": true
+    },
+    {
+      "x": 0.8471813193192904,
+      "y": 0.9436781052590673,
+      "xRelative": 0.517093851933378,
+      "yRelative": 0.9436781052590673,
+      "name": "Middle of Nowhere",
+      "country": "Mexico",
+      "population": 0,
+      "sizeCoefficient": "regular",
+      "useFlagIfAvailable": true,
+      "latitude": 32.05682982231916,
+      "longitude": -101.32977577292954,
+      "included": true,
+      "isHarbour": false,
+      "id": 32,
+      "manual": true
+    },
+    {
+      "x": 0.8890717369599559,
+      "y": 0.07943059031430233,
+      "xRelative": 0.5426624957678696,
+      "yRelative": 0.07943059031430233,
+      "name": "Acapulco",
+      "country": "Mexico",
+      "population": 0,
+      "sizeCoefficient": "regular",
+      "useFlagIfAvailable": true,
+      "latitude": 17.0231971966494,
+      "longitude": -100.5256380595894,
+      "included": true,
+      "isHarbour": false,
+      "id": 33,
       "manual": true
     }
   ],
@@ -606,7 +708,7 @@
       "tunnel": false,
       "tunnelLevel": 0,
       "reverse": false,
-      "curvature": -13,
+      "curvature": -15,
       "companies": null,
       "lineAmount": 1,
       "lines": [
@@ -796,7 +898,7 @@
       "tunnel": false,
       "tunnelLevel": 0,
       "reverse": false,
-      "curvature": 12,
+      "curvature": 1,
       "companies": null,
       "lineAmount": 2,
       "lines": [
@@ -853,7 +955,7 @@
       "tunnel": false,
       "tunnelLevel": 0,
       "reverse": false,
-      "curvature": -3,
+      "curvature": 8,
       "companies": null,
       "lineAmount": 1,
       "lines": [
@@ -1043,11 +1145,11 @@
       "tunnel": false,
       "tunnelLevel": 0,
       "reverse": false,
-      "curvature": -9,
+      "curvature": -4,
       "companies": null,
       "lineAmount": 1,
       "lines": [
-        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "pink", "locomotive": 0, "mountains": 0 },
         { "colour": "grey", "locomotive": 0, "mountains": 0 },
         { "colour": "grey", "locomotive": 0, "mountains": 0 },
         { "colour": "grey", "locomotive": 0, "mountains": 0 }
@@ -1062,11 +1164,11 @@
       "tunnel": false,
       "tunnelLevel": 0,
       "reverse": false,
-      "curvature": 0,
+      "curvature": 5,
       "companies": null,
       "lineAmount": 1,
       "lines": [
-        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "green", "locomotive": 0, "mountains": 0 },
         { "colour": "grey", "locomotive": 0, "mountains": 0 },
         { "colour": "grey", "locomotive": 0, "mountains": 0 },
         { "colour": "grey", "locomotive": 0, "mountains": 0 }
@@ -1214,9 +1316,9 @@
       "tunnel": false,
       "tunnelLevel": 0,
       "reverse": false,
-      "curvature": 15,
+      "curvature": 46,
       "companies": null,
-      "lineAmount": 1,
+      "lineAmount": 0,
       "lines": [
         { "colour": "yellow", "locomotive": 0, "mountains": 0 },
         { "colour": "grey", "locomotive": 0, "mountains": 0 },
@@ -1550,7 +1652,7 @@
     {
       "start": 27,
       "end": 2,
-      "length": 4,
+      "length": 3,
       "reverse": false,
       "curvature": -39,
       "tunnel": false,
@@ -1600,6 +1702,276 @@
       ],
       "isBoat": false,
       "id": 59
+    },
+    {
+      "start": 28,
+      "end": 16,
+      "length": 2,
+      "reverse": false,
+      "curvature": 49,
+      "tunnel": false,
+      "tunnelLevel": 0,
+      "lineAmount": 1,
+      "lines": [
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 }
+      ],
+      "isBoat": false,
+      "id": 60
+    },
+    {
+      "start": 29,
+      "end": 28,
+      "length": 3,
+      "reverse": false,
+      "curvature": 29,
+      "tunnel": false,
+      "tunnelLevel": 0,
+      "lineAmount": 1,
+      "lines": [
+        { "colour": "blue", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 }
+      ],
+      "isBoat": false,
+      "id": 61
+    },
+    {
+      "start": 1,
+      "end": 29,
+      "length": 4,
+      "reverse": false,
+      "curvature": 22,
+      "tunnel": false,
+      "tunnelLevel": 0,
+      "lineAmount": 2,
+      "lines": [
+        { "colour": "black", "locomotive": 0, "mountains": 0 },
+        { "colour": "white", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 }
+      ],
+      "isBoat": false,
+      "id": 62
+    },
+    {
+      "start": 28,
+      "end": 5,
+      "length": 1,
+      "reverse": false,
+      "curvature": 0,
+      "tunnel": false,
+      "tunnelLevel": 0,
+      "lineAmount": 1,
+      "lines": [
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 }
+      ],
+      "isBoat": false,
+      "id": 63
+    },
+    {
+      "start": 26,
+      "end": 30,
+      "length": 4,
+      "reverse": false,
+      "curvature": 16,
+      "tunnel": false,
+      "tunnelLevel": 0,
+      "lineAmount": 1,
+      "lines": [
+        { "colour": "blue", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 }
+      ],
+      "isBoat": false,
+      "id": 64
+    },
+    {
+      "start": 4,
+      "end": 30,
+      "length": 4,
+      "reverse": false,
+      "curvature": 22,
+      "tunnel": false,
+      "tunnelLevel": 0,
+      "lineAmount": 1,
+      "lines": [
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 }
+      ],
+      "isBoat": false,
+      "id": 65
+    },
+    {
+      "start": 4,
+      "end": 31,
+      "length": 5,
+      "reverse": false,
+      "curvature": 25,
+      "tunnel": false,
+      "tunnelLevel": 0,
+      "lineAmount": 1,
+      "lines": [
+        { "colour": "orange", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 }
+      ],
+      "isBoat": false,
+      "id": 66
+    },
+    {
+      "start": 31,
+      "end": 30,
+      "length": 2,
+      "reverse": false,
+      "curvature": -7,
+      "tunnel": false,
+      "tunnelLevel": 0,
+      "lineAmount": 1,
+      "lines": [
+        { "colour": "black", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 }
+      ],
+      "isBoat": false,
+      "id": 67
+    },
+    {
+      "start": 32,
+      "end": 31,
+      "length": 3,
+      "reverse": false,
+      "curvature": 0,
+      "tunnel": false,
+      "tunnelLevel": 0,
+      "lineAmount": 2,
+      "lines": [
+        { "colour": "yellow", "locomotive": 0, "mountains": 0 },
+        { "colour": "red", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 }
+      ],
+      "isBoat": false,
+      "id": 68
+    },
+    {
+      "start": 8,
+      "end": 32,
+      "length": 4,
+      "reverse": false,
+      "curvature": -10,
+      "tunnel": false,
+      "tunnelLevel": 0,
+      "lineAmount": 1,
+      "lines": [
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 }
+      ],
+      "isBoat": false,
+      "id": 69
+    },
+    {
+      "start": 32,
+      "end": 4,
+      "length": 3,
+      "reverse": false,
+      "curvature": 0,
+      "tunnel": false,
+      "tunnelLevel": 0,
+      "lineAmount": 1,
+      "lines": [
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 }
+      ],
+      "isBoat": false,
+      "id": 70
+    },
+    {
+      "start": 29,
+      "end": 0,
+      "length": 1,
+      "reverse": false,
+      "curvature": 0,
+      "tunnel": false,
+      "tunnelLevel": 0,
+      "lineAmount": 1,
+      "lines": [
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 }
+      ],
+      "isBoat": false,
+      "id": 71
+    },
+    {
+      "start": 33,
+      "end": 3,
+      "length": 2,
+      "reverse": false,
+      "curvature": 2,
+      "tunnel": false,
+      "tunnelLevel": 0,
+      "lineAmount": 1,
+      "lines": [
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 }
+      ],
+      "isBoat": false,
+      "id": 72
+    },
+    {
+      "start": 33,
+      "end": 22,
+      "length": 1,
+      "reverse": false,
+      "curvature": 0,
+      "tunnel": false,
+      "tunnelLevel": 0,
+      "lineAmount": 1,
+      "lines": [
+        { "colour": "pink", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 }
+      ],
+      "isBoat": false,
+      "id": 73
+    },
+    {
+      "start": 28,
+      "end": 33,
+      "length": 4,
+      "reverse": false,
+      "curvature": 52,
+      "tunnel": false,
+      "tunnelLevel": 0,
+      "lineAmount": 1,
+      "lines": [
+        { "colour": "red", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 }
+      ],
+      "isBoat": false,
+      "id": 74
     }
   ],
   "ticketSets": {
@@ -1765,19 +2137,19 @@
       { "start": 13, "end": 26, "ticketSet": "regular", "points": 12 },
       { "start": 3, "end": 21, "ticketSet": "regular", "points": 13 },
       { "start": 8, "end": 22, "ticketSet": "regular", "points": 13 },
-      { "start": 10, "end": 25, "ticketSet": "regular", "points": 11 },
+      { "start": 10, "end": 25, "ticketSet": "regular", "points": 10 },
       { "start": 1, "end": 6, "ticketSet": "regular", "points": 14 },
-      { "start": 2, "end": 4, "ticketSet": "regular", "points": 11 },
-      { "start": 24, "end": 26, "ticketSet": "regular", "points": 10 },
+      { "start": 2, "end": 4, "ticketSet": "regular", "points": 10 },
+      { "start": 24, "end": 26, "ticketSet": "regular", "points": 9 },
       { "start": 7, "end": 14, "ticketSet": "regular", "points": 15 },
       { "start": 13, "end": 23, "ticketSet": "regular", "points": 15 },
       { "start": 0, "end": 25, "ticketSet": "regular", "points": 16 },
       { "start": 2, "end": 12, "ticketSet": "regular", "points": 17 },
-      { "start": 15, "end": 24, "ticketSet": "regular", "points": 17 },
+      { "start": 15, "end": 24, "ticketSet": "regular", "points": 16 },
       { "start": 6, "end": 21, "ticketSet": "regular", "points": 18 },
-      { "start": 8, "end": 25, "ticketSet": "regular", "points": 19 },
+      { "start": 8, "end": 25, "ticketSet": "regular", "points": 18 },
       { "start": 11, "end": 14, "ticketSet": "regular", "points": 22 },
-      { "start": 13, "end": 24, "ticketSet": "regular", "points": 22 }
+      { "start": 13, "end": 24, "ticketSet": "regular", "points": 21 }
     ],
     "longRoutesWithPoints": [],
     "bigCitiesWithPoints": []
