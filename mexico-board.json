@@ -1,4 +1,5 @@
 {
+  "mapCategory": "",
   "dimensions": [1.6383511738763443, 1],
   "outline": {
     "offset_x": 19.449030904482917,
@@ -1990,6 +1991,24 @@
       ],
       "isBoat": false,
       "id": 75
+    },
+    {
+      "start": 16,
+      "end": 33,
+      "length": 2,
+      "reverse": false,
+      "curvature": 0,
+      "tunnel": false,
+      "tunnelLevel": 0,
+      "lineAmount": 1,
+      "lines": [
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 },
+        { "colour": "grey", "locomotive": 0, "mountains": 0 }
+      ],
+      "isBoat": false,
+      "id": 76
     }
   ],
   "ticketSets": {
@@ -2129,13 +2148,12 @@
     "bottomLat": 15.641497749007225,
     "topLat": 33.03655225099278
   },
-  "mapCategory": "",
   "unutilized": {
     "scale": 20.691819437652384,
     "ticketsWithPoints": [
       { "start": 0, "end": 7, "ticketSet": "regular", "points": 5 },
       { "start": 4, "end": 18, "ticketSet": "regular", "points": 5 },
-      { "start": 5, "end": 33, "ticketSet": "regular", "points": 5 },
+      { "start": 5, "end": 33, "ticketSet": "regular", "points": 3 },
       { "start": 10, "end": 28, "ticketSet": "regular", "points": 5 },
       { "start": 13, "end": 15, "ticketSet": "regular", "points": 5 },
       { "start": 5, "end": 15, "ticketSet": "regular", "points": 6 },
@@ -2162,7 +2180,7 @@
       { "start": 8, "end": 28, "ticketSet": "regular", "points": 10 },
       { "start": 14, "end": 15, "ticketSet": "regular", "points": 10 },
       { "start": 6, "end": 29, "ticketSet": "regular", "points": 11 },
-      { "start": 9, "end": 11, "ticketSet": "regular", "points": 11 },
+      { "start": 9, "end": 11, "ticketSet": "regular", "points": 10 },
       { "start": 10, "end": 13, "ticketSet": "regular", "points": 11 },
       { "start": 12, "end": 23, "ticketSet": "regular", "points": 11 },
       { "start": 27, "end": 33, "ticketSet": "regular", "points": 8 },
@@ -2178,14 +2196,14 @@
       { "start": 21, "end": 26, "ticketSet": "regular", "points": 14 },
       { "start": 25, "end": 28, "ticketSet": "regular", "points": 14 },
       { "start": 2, "end": 29, "ticketSet": "regular", "points": 15 },
-      { "start": 13, "end": 33, "ticketSet": "regular", "points": 15 },
+      { "start": 13, "end": 33, "ticketSet": "regular", "points": 13 },
       { "start": 6, "end": 31, "ticketSet": "regular", "points": 15 },
       { "start": 14, "end": 19, "ticketSet": "regular", "points": 16 },
       { "start": 9, "end": 25, "ticketSet": "regular", "points": 17 },
-      { "start": 11, "end": 21, "ticketSet": "regular", "points": 17 },
+      { "start": 11, "end": 21, "ticketSet": "regular", "points": 16 },
       { "start": 12, "end": 24, "ticketSet": "regular", "points": 17 },
       { "start": 2, "end": 13, "ticketSet": "regular", "points": 19 },
-      { "start": 11, "end": 14, "ticketSet": "regular", "points": 22 },
+      { "start": 11, "end": 14, "ticketSet": "regular", "points": 21 },
       { "start": 21, "end": 25, "ticketSet": "regular", "points": 23 }
     ],
     "longRoutesWithPoints": [],
